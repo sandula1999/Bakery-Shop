@@ -1,0 +1,18 @@
+Bread Items
+	ALIF mask butter -  	 RS.100.00
+	Waffle premix 	- 	 Rs.120.00
+	Pastry		-	 Rs. 45.00
+	Fish Bun	- 	 Rs.45.00
+	Chicken Submarine - 	 Rs. 250.00
+	Chrispy Chicken Burger - Rs. 350.00
+	Beef Burger		-Rs.450.00
+Cakes
+	Cheese Cake	- Rs.300.00 (1pc)
+	Blueberry Cake  - Rt. 150.00 (1 Pc)
+	Chocalate Cake  - Rs. 2500.00 (1kg)
+	Cake butter	- Rs. 800.00 (1KG)
+Beverages
+	Coffee		-Rs.70.00
+	Vanila 		-Rs.60.000
+	Milk Shake	-Rs.200.00
+	Tea		-Rs.50.00
